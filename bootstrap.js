@@ -4,8 +4,7 @@ var ios = Components.classes["@mozilla.org/network/io-service;1"].getService(Com
 var sheet = ios.newURI('data:text/css;charset=utf-8,' + encodeURIComponent('\
   @namespace url(http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul); \
   @namespace html url("http://www.w3.org/1999/xhtml"); \
-  
-	scrollbar { -moz-appearance:none !important; 
+  	scrollbar { -moz-appearance:none !important; 
 		border-radius: 0px; 
 		background-color: transparent; 
 		background-image: none; 
