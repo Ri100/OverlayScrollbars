@@ -3,23 +3,16 @@
     <Description about="urn:mozilla:install-manifest">
 		<em:id>OverlayScrollbars@Izzo</em:id>
 		<em:name>OverlayScrollbars</em:name>
-		<em:version>0.27</em:version>
+		<em:version>0.29</em:version>
 		<em:type>2</em:type>
         <em:bootstrap>true</em:bootstrap>
         <em:creator>Izzo</em:creator>
-		<em:description>A minimalistic extension that transforms Firefox's scrollbars into semi-transparent overlay ones, saving window space and looking good.
-
-	Notes:
-	• If add-on page looks weird after installation just reload page [F5].
-	• If awesomebar gets broken after installation just restart Firefox.
-		
-Icon by sqn3k.deviantart.com.
-
+		<em:description>
 Changelog:
 	• v0.23 - initial release
 	• v0.27 - fixed compatibility with Firefox 44 and up
+	• v0.29 - added accent color when hovered and active
 	
-
 			</em:description>
 		<em:homepageURL>https://addons.mozilla.org/en-US/firefox/addon/overlayscrollbars/</em:homepageURL>
         <em:targetApplication>
