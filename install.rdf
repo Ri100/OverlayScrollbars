@@ -12,7 +12,7 @@ Changelog:
 	• v0.23 - initial release
 	• v0.27 - fixed compatibility with Firefox 44 and up
 	• v0.29 - added accent color when hovered and active
-	• v0.31 - some fine polish: scrollbars get darker on light backgrounds, and ligher on dark ones when hovered; color adjustments;
+	• v0.31 - some fine polish: scrollbars get darker on light backgrounds, and lighter on dark ones when hovered; color adjustments;
 
 			</em:description>
 		<em:homepageURL>https://addons.mozilla.org/en-US/firefox/addon/overlayscrollbars/</em:homepageURL>
