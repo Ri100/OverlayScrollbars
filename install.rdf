@@ -3,7 +3,7 @@
     <Description about="urn:mozilla:install-manifest">
 		<em:id>OverlayScrollbars@Izzo</em:id>
 		<em:name>OverlayScrollbars</em:name>
-		<em:version>0.29</em:version>
+		<em:version>0.31</em:version>
 		<em:type>2</em:type>
         <em:bootstrap>true</em:bootstrap>
         <em:creator>Izzo</em:creator>
@@ -12,7 +12,8 @@ Changelog:
 	• v0.23 - initial release
 	• v0.27 - fixed compatibility with Firefox 44 and up
 	• v0.29 - added accent color when hovered and active
-	
+	• v0.31 - some fine polish: scrollbars get darker on light backgrounds, and ligher on dark ones when hovered; color adjustments;
+
 			</em:description>
 		<em:homepageURL>https://addons.mozilla.org/en-US/firefox/addon/overlayscrollbars/</em:homepageURL>
         <em:targetApplication>
